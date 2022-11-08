@@ -51,6 +51,10 @@ p{
 .Second-Half img{
     width: 100%;  
 }
+h2{
+    font-size: 40px;
+    font-weight: bold;
+}
 .Dream-Half{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
@@ -67,7 +71,7 @@ p{
 .experience-area{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 60%;
+    height: 70%;
     padding-top: 50px;
 
 }
@@ -80,5 +84,9 @@ p{
     border-left: 7px solid;
     border-image: linear-gradient(45deg,blue,cyan);
     border-image-slice:1;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
 
