@@ -14,14 +14,14 @@ section{
 .titleName{
     color: orange;
 }
-.first-Half{
+.Half-Width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%; 
  
 }
-.first-Half img{
+.Half-Width img{
     width: 100%;  
 }
 .linkButton{
@@ -40,17 +40,6 @@ section{
 p{
     color: darkgray;
 }
-
-.Second-Half{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%; 
- 
-}
-.Second-Half img{
-    width: 100%;  
-}
 h2{
     font-size: 40px;
     font-weight: bold;
@@ -59,13 +48,6 @@ h2{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-}
-
-.Experience-Half{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
 }
 
 .experience-area{
